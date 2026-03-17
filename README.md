@@ -15,8 +15,27 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 5. The administrator after successful confirmation, initiates the process to generate the
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+
 ### UML DIAGRAMS:
 
+### USE CASE DIAGRAM:
+<img width="1072" height="747" alt="image" src="https://github.com/user-attachments/assets/c6347111-1d42-48bd-b25c-30937f8ad2b9" />
+
+### CLASS DIAGRAM:
+<img width="1083" height="776" alt="image" src="https://github.com/user-attachments/assets/1b54eed6-b676-44c8-b87d-7579e2c11e15" />
+
+### ACTIVITY DIAGRAM:
+<img width="972" height="807" alt="image" src="https://github.com/user-attachments/assets/3fe5574a-69b9-49e7-b916-e8f196e3d7e9" />
+
+### SEQUENCE DIAAGRAM:
+<img width="1085" height="751" alt="image" src="https://github.com/user-attachments/assets/55ee61a4-f692-4574-ac37-9c1eef7f58e6" />
+
+### COMMUNICATION DIAGRAM:
+<img width="1087" height="775" alt="image" src="https://github.com/user-attachments/assets/91e7846b-2adf-48f0-a409-c1871fcf1fd5" />
+
+
+### PACKAGE DIAGRAM:
+<img width="937" height="637" alt="image" src="https://github.com/user-attachments/assets/ac3e0f61-d839-431b-946a-a03d4af68a6f" />
 
 
 ### RESULT:
